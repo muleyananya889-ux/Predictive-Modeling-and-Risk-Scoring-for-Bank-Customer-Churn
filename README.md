@@ -10,9 +10,9 @@ The objective of the project is to analyze customer behavior, transaction histor
 The system uses historical banking data containing features such as account balance, credit score, transaction frequency, loan status, customer tenure, product usage, complaints, and digital banking activity. Data preprocessing techniques including handling missing values, feature encoding, normalization, and outlier treatment are applied to prepare the dataset for modeling.
 
 Repository Structures
-Data:
-Dashboard:
-Images:
+Data: https://github.com/muleyananya889-ux/Predictive-Modeling-and-Risk-Scoring-for-Bank-Customer-Churn/blob/main/project%20data.csv
+Dashboard: 
+Images: 
 
 Key Objectives of Predictive Modeling and Risk Scoring for Bank Customer Churn
 Predict whether a customer is likely to churn.
