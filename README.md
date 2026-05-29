@@ -11,8 +11,8 @@ The system uses historical banking data containing features such as account bala
 
 Repository Structures
 Data: https://github.com/muleyananya889-ux/Predictive-Modeling-and-Risk-Scoring-for-Bank-Customer-Churn/blob/main/project%20data.csv
-Dashboard: 
-Images: 
+Dashboard: [Predictive Modeling and Risk Scoring for Bank Customer Churn Power BI Project](https://github.com/muleyananya889-ux/Predictive-Modeling-and-Risk-Scoring-for-Bank-Customer-Churn/blob/main/European%20Bank%20Analytics%20pro.pbix)  
+Images:
 
 Key Objectives of Predictive Modeling and Risk Scoring for Bank Customer Churn
 Predict whether a customer is likely to churn.
