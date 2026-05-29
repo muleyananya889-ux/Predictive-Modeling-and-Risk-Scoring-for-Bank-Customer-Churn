@@ -15,6 +15,7 @@ Dashboard: [Predictive Modeling and Risk Scoring for Bank Customer Churn Power B
 Images: <img width="1323" height="730" alt="Dashboard project image" src="https://github.com/user-attachments/assets/c18dcd8a-3fb2-4cca-bee4-28378b2f8912" />
 
 Key Objectives of Predictive Modeling and Risk Scoring for Bank Customer Churn
+
 Predict whether a customer is likely to churn.
 Identify major factors contributing to customer attrition.
 Generate churn risk scores for customers.
@@ -22,8 +23,8 @@ Improve customer retention strategies using predictive insights.
 Support business decision-making with analytical dashboards.
 
 Advantages of Predictive Modeling and Risk Scoring for Bank Customer Churn
-Early Identification of Churning Customers
 
+Early Identification of Churning Customers
 The project helps banks identify customers who are likely to leave before they actually churn, allowing proactive action.
 Improved Customer Retention
 By predicting customer behavior, banks can implement personalized retention strategies such as special offers, loyalty rewards, or better services.
@@ -63,3 +64,10 @@ By identifying the reasons behind customer dissatisfaction, banks can improve se
 Targeted Customer Support
 Customer care teams can prioritize support for customers with higher churn risk scores.
 Fraud and Behavioral Monitoring
+
+Conclusion
+This project reframes customer churn from a behavioral and relationship-strength perspective. By focusing on engagement and product utilization rather than demographics, it provides actionable insights for retention strategy design, product optimization, and customer loyalty enhancement.
+The Predictive Modeling and Risk Scoring for Bank Customer Churn project successfully demonstrates how machine learning and data analytics can be used to identify customers who are likely to leave a bank. By analyzing customer demographic details, transaction behavior, account activity, and service usage patterns, the system can accurately predict churn probability and generate risk scores for each customer.
+The project helps banks take proactive measures to improve customer retention by identifying high-risk customers in advance. Various machine learning algorithms such as Logistic Regression, Decision Tree, Random Forest, and XGBoost are applied and evaluated to achieve better prediction accuracy and performance. The generated risk scoring model enables efficient customer segmentation into low, medium, and high-risk categories, allowing banks to focus their retention strategies effectively.
+
+In addition, data visualization and analytical dashboards provide meaningful insights into customer behavior and the major factors influencing churn. This improves business decision-making, reduces customer loss, enhances customer satisfaction, and increases profitability for financial institutions.
